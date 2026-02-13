@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Santoso</h1>
-<h3 align="center">Backend Developer | Python • Laravel • Swift</h3>
+<h3 align="center">Fullstack Developer | Python • Laravel </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HenrySantoso&label=Profile%20views&color=0e75b6&style=flat" />
@@ -11,8 +11,7 @@
 
 - 🎓 Informatics Student
 - 💻 Focused on Backend & Application Development
-- 📊 Interested in Data Processing & System Architecture
-- 📱 Exploring mobile development with Swift
+- 📊 Interested in Data Processing, Machine Learning, AI & System Architecture
 - ⚡ Passionate about building structured and scalable systems
 
 ---
@@ -22,7 +21,6 @@
 ### 💻 Backend & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,7 +46,6 @@
 ## 🚀 Current Focus
 - Backend API Development (Laravel)
 - Data Processing & Automation (Python)
-- iOS App Development (Swift)
 - Database Design & Optimization (MySQL)
 
 ---
